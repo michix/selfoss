@@ -108,6 +108,7 @@ class heise extends feed {
         ['div', 'id', 'artikel_shortnews', '<p class="editor">'],             // autos
         ['div', 'id', 'projekte', '<div id="artikelfuss">'],                  // hh projects
         ['div', 'id', 'artikel', '<div id="artikelfuss">'],                   // some hh articles
+        ['div', 'class', 'article-content', '</article'],                     // new heise article format
     ];
 
     /**
